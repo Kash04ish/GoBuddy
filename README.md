@@ -9,11 +9,7 @@
 - [Features](#features)  
 - [Getting Started](#getting-started)  
 - [Tech Stack](#tech-stack)  
-- [Screenshots](#screenshots)  
 - [Architecture](#architecture)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
